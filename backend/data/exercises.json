@@ -1,0 +1,66 @@
+[
+  {
+    "canonical_name": "Bench Press",
+    "aliases": ["benchpress", "bench press"]
+  },
+  {
+    "canonical_name": "Incline Bench Press",
+    "aliases": ["incline bench", "incline benchpress", "incline press"]
+  },
+  {
+    "canonical_name": "Squat",
+    "aliases": ["barbell squat", "back squat"]
+  },
+  {
+    "canonical_name": "Deadlift",
+    "aliases": ["dead lift", "barbell deadlift"]
+  },
+  {
+    "canonical_name": "Romanian Deadlift",
+    "aliases": ["romanian dead lift", "rdl"]
+  },
+  {
+    "canonical_name": "Lat Pulldown",
+    "aliases": ["lat pull down", "lat pulldown", "pulldown"]
+  },
+  {
+    "canonical_name": "Barbell Row",
+    "aliases": ["barbell bent over row", "bent over row"]
+  },
+  {
+    "canonical_name": "Shoulder Press",
+    "aliases": ["overhead press", "military press", "shoulder press"]
+  },
+  {
+    "canonical_name": "Biceps Curl",
+    "aliases": ["bicep curl", "barbell curl", "dumbbell curl"]
+  },
+  {
+    "canonical_name": "Triceps Pushdown",
+    "aliases": ["tricep pushdown", "triceps push down", "cable pushdown"]
+  },
+  {
+    "canonical_name": "Leg Press",
+    "aliases": ["legpress", "45 degree leg press"]
+  },
+  {
+    "canonical_name": "Leg Extension",
+    "aliases": ["leg extensions"]
+  },
+  {
+    "canonical_name": "Leg Curl",
+    "aliases": ["leg curls", "hamstring curl"]
+  },
+  {
+    "canonical_name": "Calf Raise",
+    "aliases": ["calf raises", "standing calf raise", "seated calf raise"]
+  },
+  {
+    "canonical_name": "Lateral Raise",
+    "aliases": ["lateral raises", "side lateral raise", "side raises"]
+  },
+  {
+    "canonical_name": "Chest Fly",
+    "aliases": ["chest flies", "pec fly", "pec deck"]
+  }
+]
